@@ -1,2 +1,2 @@
-# python3_case_lambda
+# python3_awslambda_caseswitch
 Example of a case switched AWS Lambda and OO Design
